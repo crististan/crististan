@@ -6,9 +6,9 @@ My name is Cristi Stan and I'm a front-end developer.
 
 [![Technologies](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,svelte,react)](https://skillicons.dev)
 
-## Project
+## Projects
 
-Soon
+[erdtools.com](https://erdtools.com/) | [converttext](https://crististan.github.io/converttext/) | [web-development-quiz](https://github.com/crististan/web-development-quiz)
 
 <!--
 **crististan/crististan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
