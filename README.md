@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+My name is Cristi Stan and I'm a front-end developer.
+
+## Technologies
+
 [![Technologies](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,svelte,react)](https://skillicons.dev)
+
+## Project
+
+Soon
 
 <!--
 **crististan/crististan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
